@@ -17,3 +17,11 @@ h1:hover {
   transition: all 2s ease-in-out;
   color: #fff;
 }
+footer {
+  border-top: 1px solid #f9f7fe;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 15px;
+
+  color: rgba(4, 1, 17, 0.973);
+}
